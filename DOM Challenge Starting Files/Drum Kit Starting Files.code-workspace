@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Drum Kit Starting Files",
+			"path": "../../../Downloads/Drum Kit Starting Files"
+		},
+		{
+			"name": "Practice",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Drum Kit Starting Files"
+	}
+}

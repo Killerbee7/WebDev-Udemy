@@ -18,7 +18,7 @@ function fibonacciGenerator (n) {
                 
             }
             else{
-                for(var i=2; i<n; i++){
+                for(let i=2; i<n; i++){
                 output.push(output[output.length-2]+output[output.length-1]);
                 }
                 

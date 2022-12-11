@@ -1,1 +1,1 @@
-Fibonacchhi sequence in vanilla js
+Fibonacchhi sequence in Vanilla JS

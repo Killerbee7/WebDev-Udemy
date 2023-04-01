@@ -1,3 +1,1 @@
-# GithubPractice
-¨
-Fibonachhi sequence generator
+# Udemy Practice and Exercises for Web Development

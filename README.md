@@ -1,2 +1,1 @@
-# GithubPractice
-Github Practice
+# Udemy Practice and Exercises for Web Development

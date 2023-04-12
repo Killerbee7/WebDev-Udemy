@@ -12,6 +12,3 @@ app.listen(3006,()=>{
 });
 
 
-function authenticationDn(username, password){
-
-}

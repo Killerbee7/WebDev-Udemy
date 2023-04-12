@@ -4,7 +4,7 @@ const app = express()
 
 
 app.get("/", (request, response) =>{
-    response.send("<h1>Hello Guys. This is Udemy Node Tutorial</h1>")
+    response.send("<h1>Hello, This is Udemy Node Tutorial</h1>")
 });
 
 app.listen(3006,()=>{
